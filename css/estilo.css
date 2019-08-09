@@ -35,3 +35,9 @@ h1 {
 input {
 	color: #FFF;
 }
+#Buscador form label {
+	color: #FFF;
+}
+#buscador form {
+	display: block;
+}
